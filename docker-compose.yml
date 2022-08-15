@@ -1,0 +1,20 @@
+version: '3.9'
+services:
+  web:
+    image: solr:latest
+    container_name: solr
+    restart: always
+    ports:
+      - 8983:8983
+    networks:
+      - default
+    volumes:
+      - data:/var/solr
+
+networks:
+  default:
+    driver: bridge
+
+volumes:
+  data:
+    driver: local
