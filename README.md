@@ -8,7 +8,7 @@ Apache Solr is an extremely powerful, open source enterprise search platform bui
 
 ### 🥈 Run
 
-- [http://localhost:8983/](http://localhost:8983/) username : `admin` password : `admin`
+- [http://localhost:8983/](http://localhost:8983/)
 
 ```shell
 docker-compose up -d
