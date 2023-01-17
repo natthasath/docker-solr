@@ -1,6 +1,6 @@
 # 🎉 Docker Solr
 
-Apache Solr is an extremely powerful, open source enterprise search platform built on Apache Lucene. It is highly reliable and flexible, scalable, and designed to add value very quickly after launch.
+Solr is an open-source enterprise search platform, used for full-text search, faceted search, and real-time indexing of documents. It is built on Apache Lucene.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
