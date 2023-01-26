@@ -5,7 +5,7 @@ services:
     container_name: solr
     restart: always
     ports:
-      - 8983:8983
+      - ${APP_PORT}:8983
     networks:
       - default
     volumes:
