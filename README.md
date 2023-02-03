@@ -6,7 +6,7 @@ Solr is an open-source enterprise search platform, used for full-text search, fa
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:8983/](http://localhost:8983/)
 
