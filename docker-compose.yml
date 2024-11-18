@@ -13,8 +13,10 @@ services:
 
 networks:
   default:
+    name: docker_solr_network
     driver: bridge
 
 volumes:
   data:
+    name: docker_solr_data
     driver: local
